@@ -12,6 +12,7 @@ class Game:
         pygame.display.set_caption('SoulsLike')
         self.clock = pygame.time.Clock()
 
+
         self.level = Level()
 
     def run(self):
