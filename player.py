@@ -1,4 +1,5 @@
 import pygame
+from pathlib import Path
 from settings import *
 
 data_folder = Path("graphics/test/")
